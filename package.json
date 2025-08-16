@@ -1,0 +1,22 @@
+{
+  "name": "onchain-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anirudh",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "leaflet": "^1.7.1",
+    "react-leaflet": "^3.2.5",
+    "react-qr-code": "^2.0.18",
+    "react-qr-reader": "^2.2.1"
+  }
+}
