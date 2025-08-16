@@ -36,7 +36,7 @@ Use the "Autofill Demo Data" button on Add Product page for quick testing.
 MIT
 
 ## Authors
-- Your Name Anirudh
+- Anirudh
 
 ---
 For questions or contributions, open an issue or pull request!
